@@ -1,0 +1,1 @@
+*/5 * * * * http php /usr/share/webapps/FreshRSS/app/actualize_script.php > /tmp/FreshRSS.log 2>&1
